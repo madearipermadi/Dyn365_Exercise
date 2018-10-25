@@ -10,7 +10,7 @@ table 50101 "CYN Reward"
 
         field(2; "Description"; Text[250])
         {
-            NotBlank = true;
+            NotBlank = false;
         }
 
         field(3; "Discount Percentage"; Decimal)
