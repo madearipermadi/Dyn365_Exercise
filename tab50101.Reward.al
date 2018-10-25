@@ -31,6 +31,11 @@ table 50101 "CYN Reward"
         {
             Editable = false;
         }
+
+        field(6; "Modifed By"; Code[50])
+        {
+
+        }
     }
 
     keys
