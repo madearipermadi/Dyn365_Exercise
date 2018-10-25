@@ -4,7 +4,7 @@ tableextension 50100 "CYN Item Table Extension" extends "Item"
     {
         field(50100; "Control Sample Quantity"; Decimal)
         {
-            Editable = true;
+            Editable = false;
         }
     }
 
