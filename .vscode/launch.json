@@ -11,8 +11,7 @@
             "startupObjectId": 50102,
             "startupObjectType": "Page",
             "breakOnError": true,
-            "port" : 36549,
-            "schemaUpdateMode": "Recreate"
+            "port" : 36549
         }
     ]
 }

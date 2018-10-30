@@ -11,7 +11,9 @@
   "url": "",
   "logo": "",
   "capabilities": [],
-  "dependencies": [],
+  "dependencies": [
+    
+    ],
   "screenshots": [],
   "platform": "13.0.0.0",
   "application": "13.0.0.0",

@@ -38,13 +38,14 @@ page 50102 "CYN Reward List"
     {
         area(Processing)
         {
-            action(ActionName)
+            action("Reward List Report")
             {
                 ApplicationArea = All;
 
+
                 trigger OnAction();
                 begin
-
+                    Report.Run(Report::"Reward List Report");
                 end;
             }
         }
