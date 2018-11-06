@@ -56,7 +56,7 @@ table 50101 "CYN Reward"
 
     trigger OnModify()
     begin
-
+        SetLastDateModifiedDate();
     end;
 
     trigger OnDelete()

@@ -22,5 +22,6 @@
     "to": 50149
   },
   "runtime": "2.0",
-  "showMyCode": false
+  "showMyCode": true,
+  "target": "Internal"
 }
