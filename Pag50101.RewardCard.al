@@ -2,6 +2,7 @@ page 50101 "CYN Reward Card"
 {
     // The page will be of type "Card" and it will be displayed in the characteristic manner.
     PageType = Card;
+    Caption = 'Reward Card';
 
     // The source table shows data from the "Reward" table.
     SourceTable = "CYN Reward";

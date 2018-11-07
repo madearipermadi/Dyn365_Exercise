@@ -1,5 +1,6 @@
-report 50100 "Reward List Report"
+report 50100 "CYN Reward List Report"
 {
+    Caption = 'Reward List Report';
     DefaultLayout = RDLC;
     RDLCLayout = 'RewardListReport.rdl';
     UsageCategory = Administration;

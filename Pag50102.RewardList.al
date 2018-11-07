@@ -1,5 +1,6 @@
 page 50102 "CYN Reward List"
 {
+    Caption = 'Reward List';
     PageType = List;
     SourceTable = "CYN Reward";
     CardPageId = "CYN Reward Card";
@@ -45,7 +46,7 @@ page 50102 "CYN Reward List"
 
                 trigger OnAction();
                 begin
-                    Report.Run(Report::"Reward List Report");
+                    Report.Run(Report::"CYN Reward List Report");
                 end;
             }
         }

@@ -1,5 +1,6 @@
-page 50113 "Customers Page"
+page 50113 "CYN Customers Page"
 {
+    Caption = 'Customers Page';
     PageType = Card;
     SourceTable = Customer;
     layout

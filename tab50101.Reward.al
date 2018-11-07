@@ -1,5 +1,6 @@
 table 50101 "CYN Reward"
 {
+    Caption = 'Reward';
     DataClassification = ToBeClassified;
 
     fields
