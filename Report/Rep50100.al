@@ -2,7 +2,7 @@ report 50100 "CYN Reward List Report"
 {
     Caption = 'Reward List Report';
     DefaultLayout = RDLC;
-    RDLCLayout = 'RewardListReport.rdl';
+    RDLCLayout = 'RDL\RewardListReport.rdl';
     UsageCategory = Administration;
     ApplicationArea = All;
 
