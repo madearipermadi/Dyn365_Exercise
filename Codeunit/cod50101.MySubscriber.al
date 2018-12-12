@@ -4,7 +4,7 @@ codeunit 50101 "CYN MY Subscriber"
     local procedure CheckAddressLine(line: Text[100])
     begin
         if (STRPOS(line, '+') > 0) then begin
-            MESSAGE('Please try 2use a plus sign (+) in the address [' + line + ']');
+            MESSAGE('Please try 3 use a plus sign (+) in the address [' + line + ']');
         end;
     end;
 
