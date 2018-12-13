@@ -42,6 +42,11 @@ table 50101 "CYN Reward"
         {
 
         }
+
+        field(10; "Kode Pos"; Code[50])
+        {
+
+        }
     }
 
     keys
