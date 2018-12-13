@@ -37,18 +37,6 @@ table 50101 "CYN Reward"
         {
 
 
-<<<<<<< HEAD
-        field(7; "KTP No."; Code[60])
-        {
-
-        }
-
-        field(10; "Kode Pos"; Code[50])
-        {
-        }
-
-=======
->>>>>>> Ari
         }
 
 
@@ -61,16 +49,6 @@ table 50101 "CYN Reward"
         {
 
         }
-<<<<<<< HEAD
-=======
-
-        field(9; "Kota"; Text)
-        {
-
-        }
-
-
->>>>>>> Ari
     }
 
     keys
