@@ -36,17 +36,26 @@ table 50101 "CYN Reward"
         field(6; "Modifed By"; Code[50])
         {
 
+
         }
+
 
         field(7; "KTP No."; Code[50])
         {
 
         }
-
-        field(10; "Kode Pos"; Code[50])
+        
+        field(8; "Alamat"; Text)
         {
 
         }
+
+        field(9; "Kota"; Text)
+        {
+
+        }
+
+
     }
 
     keys
