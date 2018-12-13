@@ -47,6 +47,16 @@ table 50101 "CYN Reward"
         }
 
         }
+
+        field(7; "KTP No."; Code[50])
+        {
+
+        }
+        
+        field(8; "Alamat"; Text)
+        {
+
+        }
     }
 
     keys
