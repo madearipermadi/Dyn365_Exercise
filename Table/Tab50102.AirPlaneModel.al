@@ -25,6 +25,11 @@ table 50102 "CYN Air Plane Model"
         {
             DataClassification = ToBeClassified;
         }
+
+        field(40; "Kode Mesin"; Text)
+        {
+
+        }
     }
 
     keys
