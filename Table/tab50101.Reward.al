@@ -36,6 +36,16 @@ table 50101 "CYN Reward"
         field(6; "Modifed By"; Code[50])
         {
 
+
+        field(7; "KTP No."; Code[60])
+        {
+
+        }
+
+        field(10; "Kode Pos"; Code[50])
+        {
+        }
+
         }
     }
 
