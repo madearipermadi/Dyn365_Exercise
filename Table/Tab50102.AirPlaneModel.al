@@ -46,6 +46,11 @@ table 50102 "CYN Air Plane Model"
         {
 
         }
+        
+        field(100; "Harga"; Decimal)
+        {
+
+        }
     }
 
     keys
