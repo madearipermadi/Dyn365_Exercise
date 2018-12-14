@@ -6,6 +6,11 @@ tableextension 50100 "CYN Item Table Extension" extends "Item"
         {
             Editable = false;
         }
+
+        field(50200; "Qty. at POS"; Decimal)
+        {
+            Editable = false;
+        }
     }
 
     var
