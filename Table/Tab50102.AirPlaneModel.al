@@ -36,6 +36,11 @@ table 50102 "CYN Air Plane Model"
         {
 
         }
+        
+         field(90; "Umur Pesawat"; Decimal)
+        {
+
+        }
     }
 
     keys
