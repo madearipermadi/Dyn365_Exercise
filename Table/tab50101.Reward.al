@@ -55,6 +55,12 @@ table 50101 "CYN Reward"
 
         }
 
+        field(30; "Luas"; Decimal)
+        {
+
+        }
+
+
     }
 
     keys
