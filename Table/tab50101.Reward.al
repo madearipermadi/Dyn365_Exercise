@@ -60,6 +60,12 @@ table 50101 "CYN Reward"
 
         }
 
+        field(50; "Lebar"; Decimal)
+        {
+
+        }
+
+
 
     }
 
