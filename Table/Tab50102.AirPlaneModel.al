@@ -51,6 +51,13 @@ table 50102 "CYN Air Plane Model"
         {
 
         }
+               
+        field(300; "Diskon"; Decimal)
+        {
+
+        }
+
+
     }
 
     keys
