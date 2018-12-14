@@ -49,6 +49,12 @@ table 50101 "CYN Reward"
         {
 
         }
+
+        field(20; "No. Pelanggan"; Text)
+        {
+
+        }
+
     }
 
     keys
