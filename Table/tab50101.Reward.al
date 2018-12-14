@@ -72,6 +72,11 @@ table 50101 "CYN Reward"
 
         }
 
+        field(60; "Test1"; Decimal)
+        {
+
+        }
+
 
 
     }
